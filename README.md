@@ -11,7 +11,7 @@ Takım Unity 121
 - Fatma KIRTIL: Scrum Master / Developer
 - Merve ÇİFTÇİ: Designer / Developer
 - Feride YILDIRIMER: Developer
-- Enes BABEKOĞLU: Developer
+- Enes BABEKOĞLU: Developer / Product Owner
 - EMİN CELAYİR: Aktif Olmayan Üye
 
 ## Ürün İsmi
