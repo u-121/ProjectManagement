@@ -20,7 +20,7 @@ Takım Unity 121
 
 ## Product Backlog URL
 
-[Backlog Board](https://trello.com/b/EyuiDMuu/u121)
+[Backlog Board](https://ouau121.atlassian.net/jira/software/projects/UD/boards/1)
 
 ## Ürün Açıklaması
 
