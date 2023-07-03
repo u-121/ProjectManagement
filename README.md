@@ -16,11 +16,11 @@ Takım Unity 121
 
 ## Ürün İsmi
 
---X--
+Yes Chef!
 
 ## Product Backlog URL
 
-[Backlog Board](https://ouau121.atlassian.net/jira/software/projects/UD/boards/1)
+[Backlog Board](https://ouau121.atlassian.net/jira/software/projects/UD/boards/1/backlog)
 
 ## Ürün Açıklaması
 
