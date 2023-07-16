@@ -12,7 +12,7 @@ Takım Unity 121
 - Merve ÇİFTÇİ: Designer / Developer
 - Feride YILDIRIMER: Developer
 - Enes BABEKOĞLU: Developer / Product Owner
-- EMİN CELAYİR: Aktif Olmayan Üye
+- EMİN CELAYİR: Developer
 
 ## Ürün İsmi
 
