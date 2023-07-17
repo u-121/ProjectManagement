@@ -24,17 +24,12 @@ Yes Chef!
 
 ## Ürün Açıklaması
 
-X, 3023 yılından gelen bir kahramanın 1023 yılında başına gelenleri konu edinen hikayeli 2D bir oyundur. Kahramanımız 3 yıl öncesine gitmek isterken zaman makinesinde yaşanan bir problem kahramanımızın 2000 yıl öncesine gitmesine sebep oldu. Zaman makinesiyle en fazla kendi yaşı kadar geriye gidebilirdi. Bu kurallara aykırıydı ve istemeden de olsa suç işlemişti. Kahramanımız oyun ilerledikçe peşine düşen robotlardan kurtulmaya çalışacaktır.
-
-- **Oyun fonksiyonu**: Her bölümde verilen görevleri enerji düzeyimiz yettiği sürece tamamlamak. Eğer enerjimiz yetersiz olursa her saat +1 enerji kazanırız. Başarısız olunan her görevde -1 enerji kaybederiz. Başarılı olunan görevlerde enerji kaybedilmez.
+Bu bir mutfak oyunudur. Karakterimiz rastgele oluşan müşterilerin istediği yemekleri hazırlayacaktır. İhtiyacı olan ürünleri manav, market ve fırından temin edecektir. 
+- **Oyun fonksiyonu**: -
 
 ## Ürün Özellikleri
 
-- 5 Farklı bölümden oluşur.
-- Her bölümde 2-3 görev bulunmaktadır.
-- Görevler basit tarzda dövüş, savaş, taşıma, toplama, bir şeyi bir yere götürme, bir yerden bir yere gitme vb. şekildedir.
-- Genellikle hikayenin yönlendirmeleriyle hareket edilir.
-- Tüm bölümler tamamlandığında ormanda hayatta kalmaya çalışırız. Belirli aralıklarla bize saldırmaya robotlar gelir. NPC arkadaşlar edinebiliriz.
+- 2D Kuş Bakışı Bir oyundur
 
 ## Hedef Kitle
 
@@ -42,7 +37,7 @@ X, 3023 yılından gelen bir kahramanın 1023 yılında başına gelenleri konu 
 
 ## Juriye Not
 
-Enerjimizin tükendiği yerlerde enerji satın almak için uygulama içi satın alma yöntemi eklemek istedik ancak yapamadık. Oyunun ticarileşmesi için mantıklı bir adım olacaktır.
+Ekibimizin gündelik yoğunluğundan çok fazla vakit ayıramadığımızdan oyunumuza eklemek istediğimiz bir çok özelliği ekleyemedik.
 
 # Sprint 1
 
